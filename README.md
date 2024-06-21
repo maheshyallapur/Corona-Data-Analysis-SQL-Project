@@ -22,4 +22,5 @@ Let's continue to harness the power of data to navigate challenges and build a r
 
 Your feedback will help us identify strengths, address weaknesses, and enhance My future projects. 
 Please feel free to share your thoughts in the comments below or reach out to me directly. Your input is highly appreciated!
+
 #DataAnalytics #COVID19 #PublicHealth #DataDrivenDecisions #SQL #GlobalHealth
